@@ -1,1 +1,40 @@
+1. As questões a seguir são relativas à árvore abaixo.
 
+a) Qual nodo é a raiz?
+/ usuário / rt / cursos /
+
+
+b) Quais são os nodos internos?
+/ usuário / rt / cursos /
+cs106 /
+tema /
+programas /
+cs252 /
+projetos /
+trabalhos /
+demos /
+
+		
+c) Quantos descendentes tem o nodo cs016 /?
+Tem 9 descendentes.
+
+
+d) Quantos ancestrais tem o nodo cs016 /?
+Tem 1 ancestral.
+
+
+e) Quais são os irmãos do nodo temas /?
+programas / e notas 
+
+
+f) Que nodos pertencem à subárvore com raiz no nodo projetos /?
+trabalhos / (compre abaixo, venda alto)
+demos / (mercado)
+
+
+g) Qual é a profundidade do nodo trabalhos /?
+A profundidade é 3.
+
+
+h) Qual a altura da árvore?
+A altura da árvore é 4.
